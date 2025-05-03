@@ -1,0 +1,14 @@
+dagster==1.5.8
+dagster-webserver==1.5.8
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+Flask==2.3.3
+SQLAlchemy==2.0.29
+psycopg2-binary==2.9.9
+pymongo==4.6.3
+pycountry==23.12.11
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+requests==2.31.0
